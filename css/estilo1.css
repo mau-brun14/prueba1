@@ -1,0 +1,33 @@
+*{margin:12px;padding:10px;}
+body{background-color:#003333;color:white}
+header{
+	height:50px;
+	background-color:yellow;
+	text-align:center;
+}
+nav{
+	background-color:orange;
+	height:30px;
+}
+section{
+	background-color:lightblue;
+	height:400px;
+	width:900px;
+	float:left;
+	
+}
+aside{
+	background-color:pink;
+	height:400px;
+	width:272px;
+	float:right;
+	border-radius:20px;
+}
+footer{
+	background-color:lightgreen;
+	height:50px;
+	width:1210px;
+	float:Left;
+}
+h1{text-align:center;font-size:30px}
+h2{text-align:center;font-size:20px}
